@@ -10,8 +10,8 @@ function ordenaValor() {
 
     }
 
-valor.sort ((a, b) => b-a); 
+    valor.sort ((a, b) => b-a); 
 
-alert(valor);
+    alert(valor);
 
 }
